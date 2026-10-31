@@ -4,6 +4,59 @@
     padding: 0;
     margin: 0;
 }
-.bg-glass{
+/* glassy style glasse mode */
+.glassy{
 background-color: rgba(255 255 255 / 0.28) !important;
     backdrop-filter: saturate(180%) blur(20px)}
+#iphone-duo{
+    background-image: url(https://www.apple.com/v/homepage/images/iphone-duo/a/hero_iphone_duo_animated__ggqp9olf1ii6_large_2x.jpg);
+    background-size: cover;
+    background-position: bottom;
+    background-repeat: no-repeat;
+    height: 700px;
+}   
+#iphone-18pro{
+    background-image: url(https://www.apple.com/v/homepage/images/iphone-18-pro/a/hero_iphone_18_pro__fqe1motd0ymy_large.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 700px;
+}   
+#apple-card{
+    background-image: url(https://www.apple.com/v/homepage/images/apple-card/a/hero_apple_card__dpuxs0gw5daq_largetall.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 700px;
+}
+#upgrade-apple{
+    background-image: url(https://www.apple.com/v/homepage/images/apple-upgrade/a/promo_apple_upgrade__jvn6udm4tx2e_large.jpg);
+    background-size:cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 700px;
+}
+#home-view{
+    background-image: url(https://www.apple.com/v/homepage/images/apple-homeview/a/promo_apple_homeview_animated_preorder__ekx0z2j7deeu_large.jpg);
+    background-size:cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 700px;
+}
+#watch-series-12{
+    background-image: url(https://www.apple.com/v/homepage/images/apple-watch-series-12/a/promo_apple_watch_series_12__gnlprtt8526a_large.jpg);
+    background-size:cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 700px;
+}
+#watch-ultra4{
+    background-image: url(https://www.apple.com/v/homepage/images/apple-watch-ultra-4/a/promo_apple_watch_ultra_4__e4r3qertak2u_medium_2x.jpg);
+    background-size:cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 700px;
+}
+.bghero{
+    background-color: rgb(243, 240, 240);
+}
